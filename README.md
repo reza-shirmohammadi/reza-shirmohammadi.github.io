@@ -8,7 +8,7 @@ I’m a postdoctoral researcher specializing in Smart Energy System (SES) Life C
 💞️ I’m looking to collaborate on research projects related to sustainability, carbon capture and utilization, renewable energy systems, and environmental impact assessments.
 
 📫 How to reach me:
-You can reach me through my email: reza.shirmohammadi@urv.cat or on LinkedIn: linkedin.com/in/reza-shirmohammadi
+You can reach me through my email: r.shirmohammadi1987@gmail.com or on LinkedIn: linkedin.com/in/reza-shirmohammadi
 
 
 
