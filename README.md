@@ -1,18 +1,18 @@
-👋 Hi, I’m Reza Shirmohammadi
-I’m a postdoctoral researcher specializing in Smart Energy System (SES) Life Cycle Assessment (LCA), Techno-Economic Analysis (TEA), and process modeling. My work focuses on CO2 capture and utilization, renewable energy, and sustainability in environmental science.
 
-👀 I’m interested in exploring new solutions for global environmental challenges, particularly related to bioenergy, carbon capture technologies, and renewable energy systems.
+Reza Shirmohammadi, Ph.D. Postdoctoral Researcher | Energy Systems & Sustainability Expert
+Hi! I am an academic researcher and energy systems analyst with a strong track record of translating complex environmental and engineering challenges into sustainable, data-driven solutions. With over 50 peer-reviewed publications, my work bridges the gap between advanced process modeling and real-world environmental impact mitigation.
 
-🌱 I’m currently learning about advanced life cycle modeling techniques and how to integrate techno-economic analysis with environmental sustainability assessments for emerging technologies.
+🔬 Core Research & Expertise 
+Systems Modeling & Assessment: Leading advanced Life Cycle Assessment (LCA) and Techno-Economic Analysis (TEA) for Smart Energy Systems (SES).
+Carbon Management Technologies: Developing and evaluating emerging pathways for CO2 capture and utilization (CCU), including cutting-edge direct capture technologies.
+ Renewable Transition: Process modeling for bioenergy, sustainable fuels, and next-generation renewable energy infrastructures.
+ 
+🚀 Current Focus & Vision My current research agenda focuses on integrating deep techno-economic modeling with comprehensive environmental sustainability frameworks to assess the viability of emerging clean technologies. I am actively driving multidisciplinary collaborations aimed at mitigating climate change through innovative carbon capture systems and renewable energy integrations.
 
-💞️ I’m looking to collaborate on research projects related to sustainability, carbon capture and utilization, renewable energy systems, and environmental impact assessments.
+📫 Connect & Collaborate 
+Email: r.shirmohammadi1987@gmail.com
+LinkedIn: linkedin.com/in/reza-shirmohammadi
 
-📫 How to reach me:
-You can reach me through my email: r.shirmohammadi1987@gmail.com or on LinkedIn: linkedin.com/in/reza-shirmohammadi
-
-
-
-⚡ Fun fact: I have published over 50 peer-reviewed articles and I am passionate about turning complex research into practical solutions for a sustainable future!
 
 
 
