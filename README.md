@@ -7,11 +7,22 @@ Systems Modeling & Assessment: Leading advanced Life Cycle Assessment (LCA) and 
 Carbon Management Technologies: Developing and evaluating emerging pathways for CO2 capture and utilization (CCU), including cutting-edge direct capture technologies.
  Renewable Transition: Process modeling for bioenergy, sustainable fuels, and next-generation renewable energy infrastructures.
  
+🛠️ Tools & Methods
+Aspen Plus
+Process Simulation
+LCA
+Techno-economic Analysis
+
 🚀 Current Focus & Vision My current research agenda focuses on integrating deep techno-economic modeling with comprehensive environmental sustainability frameworks to assess the viability of emerging clean technologies. I am actively driving multidisciplinary collaborations aimed at mitigating climate change through innovative carbon capture systems and renewable energy integrations.
 
-📫 Connect & Collaborate 
+📄 Find My Work
+	•	🎓 Google Scholar
+	•	🆔 ORCID
+	•	🔗 ResearchGate
+	•	💼 LinkedIn
+
+📫 Open to collaboration on carbon capture, process modeling, and sustainability research.
 Email: r.shirmohammadi1987@gmail.com
-LinkedIn: linkedin.com/in/reza-shirmohammadi
 
 
 
