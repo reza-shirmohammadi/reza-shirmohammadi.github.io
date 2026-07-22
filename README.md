@@ -16,10 +16,11 @@ Techno-economic Analysis
 🚀 Current Focus & Vision My current research agenda focuses on integrating deep techno-economic modeling with comprehensive environmental sustainability frameworks to assess the viability of emerging clean technologies. I am actively driving multidisciplinary collaborations aimed at mitigating climate change through innovative carbon capture systems and renewable energy integrations.
 
 📄 Find My Work
-	•	🎓 Google Scholar
-	•	🆔 ORCID
-	•	🔗 ResearchGate
-	•	💼 LinkedIn
+🎓[Google Scholar](https://scholar.google.com/citations?user=qna8LJoAAAAJ&hl=en)
+🆔 [ORCID](https://orcid.org/0000-0003-1521-7539)
+🔗 [ResearchGate](https://www.researchgate.net/profile/Reza-Shirmohammadi)
+💼 [LinkedIn](https://www.linkedin.com/in/reza-shirmohammadi-95971b51/)
+
 
 📫 Open to collaboration on carbon capture, process modeling, and sustainability research.
 Email: r.shirmohammadi1987@gmail.com
