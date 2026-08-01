@@ -36,8 +36,5 @@ I am an academic researcher and energy systems analyst with a strong track recor
 
 🚀 Current Focus & Vision My current research agenda focuses on integrating deep techno-economic modeling with comprehensive environmental sustainability frameworks to assess the viability of emerging clean technologies. I am actively driving multidisciplinary collaborations aimed at mitigating climate change through innovative carbon capture systems and renewable energy integrations.
 
-📄 Find My Work 🎓Google Scholar 🆔 ORCID 🔗 ResearchGate 💼 LinkedIn
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
