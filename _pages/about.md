@@ -37,4 +37,4 @@ I am an academic researcher and energy systems analyst with a strong track recor
 🚀 Current Focus & Vision My current research agenda focuses on integrating deep techno-economic modeling with comprehensive environmental sustainability frameworks to assess the viability of emerging clean technologies. I am actively driving multidisciplinary collaborations aimed at mitigating climate change through innovative carbon capture systems and renewable energy integrations.
 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Connections: [https://github.com/reza-shirmohammadi]([https://fontawesome.com/](https://github.com/reza-shirmohammadi?tab=repositories)) and (https://scholar.google.com/citations?hl=en&&user=qna8LJoAAAAJ&&view_op=list_works&&sortby=pubdate)(https://jpswalsh.github.io/academicons/)(https://www.linkedin.com/in/reza-shirmohammadi-95971b51/?originalSubdomain=es)(https://github.com/reza-shirmohammadi).
