@@ -9,9 +9,8 @@ profile:
   image: reza.jpg 
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <University of Southern Denmark>123 your address street</p>
-    <Denmark>Your City, State 12345</p>
+    <p>University of Southern Denmark</p>
+    <p>Denmark</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
